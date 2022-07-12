@@ -1,2 +1,2 @@
 # gb.pyadvance
-advanced python coursse on gb
+advanced python course on gb
